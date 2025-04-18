@@ -8,7 +8,7 @@ const proyectos = [
   {
     titulo: "Marine Products Sales & Management System",
     descripcion: "Management system for sales and marine product combos.",
-    link: "https://github.com/yourusername/project1",
+    link: "https://drive.google.com/file/d/1NEMdYFMmmH5Koapt1XIRtVD-4UCqoH_X/view?usp=sharing",
   },
   {
     titulo: "Cleaning Products Inventory Management",
